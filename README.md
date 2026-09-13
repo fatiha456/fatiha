@@ -20,7 +20,7 @@
 - 🌱 Currently learning **. Data Structures, DBMS, Web Development**
 - 💡 Interested in **. Web Development, AI/ML, App Development, Cybersecurity**
 - 🚀 Working on **currently studying cyber security**
-- 🤝 Open to collaborating on **[cyber related topics ]**
+- 🤝 Open to collaborating on **cyber related topics **
 ---
 
 ### 🛠️ Languages & Tools
@@ -35,7 +35,6 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -43,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark" alt="activity graph" />
+
 </p>
 
 ---
