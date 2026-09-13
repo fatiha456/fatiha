@@ -52,8 +52,8 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | [Project One](https://github.com/your-github-username/project-one) | Short description of what it does | Python, Flask |
-| [Project Two](https://github.com/your-github-username/project-two) | Short description of what it does | React, Node.js |
-| [Project Three](https://github.com/your-github-username/project-three) | Short description of what it does | Java, MySQL |
+| [Project Two](https://github.com/your-github-username/project-two) | Short description of what it does | oops  |
+| [Project Three](https://github.com/your-github-username/project-three) | Short description of what it does |  MySQL |
 
 ---
 
