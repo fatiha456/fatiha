@@ -17,13 +17,10 @@
 ### 🎓 About Me
 
 - 🎓 I'm currently pursuing a **BS in Computer Science**
-- 🌱 Currently learning **[e.g. Data Structures, DBMS, Web Development]**
-- 💡 Interested in **[e.g. Web Development, AI/ML, App Development, Cybersecurity]**
-- 🚀 Working on **[current project name]**
-- 🤝 Open to collaborating on **[interesting open-source / student projects]**
-- 📫 Reach me at: **your-email@example.com**
-- ⚡ Fun fact: **[something fun about you]**
-
+- 🌱 Currently learning **. Data Structures, DBMS, Web Development**
+- 💡 Interested in **. Web Development, AI/ML, App Development, Cybersecurity**
+- 🚀 Working on **currently studying cyber security**
+- 🤝 Open to collaborating on **[cyber related topics ]**
 ---
 
 ### 🛠️ Languages & Tools
